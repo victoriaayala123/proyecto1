@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Desktop/practic.py"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "index.html"
+	}
+}
